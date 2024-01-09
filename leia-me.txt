@@ -1,0 +1,2 @@
+Comandos 
+nvm use 16.16.0
